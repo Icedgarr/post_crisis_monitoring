@@ -1,0 +1,11 @@
+data/
+*.eggs/
+crisis_prediction.egg-info/
+*.npy
+*.pyc
+.DS_Store
+.idea
+*.ipynb_checkpoints/
+*.out
+*.csv
+*.feather

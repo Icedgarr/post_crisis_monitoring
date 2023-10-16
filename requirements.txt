@@ -1,0 +1,10 @@
+numpy==1.23.0
+scipy==1.10.0
+pandas==1.5.2
+scikit-learn==1.1.3
+matplotlib
+seaborn
+tqdm
+
+# Notebooks
+jupyter
