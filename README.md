@@ -13,4 +13,4 @@ presented in the manuscript: [DOI link](https://doi.org/10.3389/fdgth.2024.13225
   manuscript.
 
 The notebook located in `notebooks/generate_simulation_results.ipynb` can be used to replicate the results. Additional
-details can be found in the manuscript: DOI link.
+details can be found in the manuscript: [DOI link](https://doi.org/10.3389/fdgth.2024.1322555).
