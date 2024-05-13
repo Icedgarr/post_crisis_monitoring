@@ -1,7 +1,7 @@
 # Individualized post-crisis monitoring of psychiatric patients via Hidden Markov models
 
 This library contains the code used to generate simulation data, build the model and generate the results for the study
-presented in the manuscript: DOI link. There are four main parts in this library:
+presented in the manuscript: [DOI link](https://doi.org/10.3389/fdgth.2024.1322555). There are four main parts in this library:
 
 - Data generation: The classes in the `post_crisis_monitoring/data_generation` folder are used to generate the patients and
   simulate a hospital.
